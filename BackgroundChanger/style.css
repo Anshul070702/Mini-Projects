@@ -1,0 +1,42 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+.canvas {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.outer {
+  width: 100%;
+  text-align: center;
+}
+
+.button {
+  height: 100px;
+  width: 100px;
+  border: solid black 2px;
+  display: inline-block;
+  margin: 5px;
+}
+
+#cyan {
+  background: cyan;
+}
+
+#slateblue {
+  background: slateblue;
+}
+
+#yellow {
+  background: yellow;
+}
+
+#salmon {
+  background: salmon;
+}
